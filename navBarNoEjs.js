@@ -29,7 +29,7 @@ var navbarStr = `
             <div class="dropdown-divider"></div>
             <a class="dropdown-item" href="#">Before Napoleon</a>
             <div class="dropdown-divider"></div>
-            <a class="dropdown-item" href="#">Napoleonic Wars</a>
+            <a class="dropdown-item" href="./napoleon.html">Napoleonic Wars</a>
           </div>
           
         </li>
