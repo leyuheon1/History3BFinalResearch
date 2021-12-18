@@ -22,7 +22,6 @@ var navbarStr = `
         <a class="nav-item nav-link" href="./riseOfNationalism.html">Nationalism</a>
         <a class="nav-item nav-link" href="./germany.html">Germany</a>
         <a class="nav-item nav-link" href="./ww1.html">World War I</a>
-        <a class="nav-item nav-link" href="./inter.html">Interwar</a>
         <a class="nav-item nav-link" href="./ww2.html">World War II</a>
       </div>
     </div>
